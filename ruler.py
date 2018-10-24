@@ -1,5 +1,7 @@
 #!/usr/bin/python3.6
 
+''' Written by KiliBio'''
+
 import sys, getopt
 
 def main(argv):
